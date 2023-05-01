@@ -1,0 +1,1 @@
+En este apartado se subiran todos los modelos (.obj),mapas de textura y las texturas
