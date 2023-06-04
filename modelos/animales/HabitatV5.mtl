@@ -1,0 +1,982 @@
+# Blender 3.4.1 MTL File: 'kanguro.blend'
+# www.blender.org
+
+newmtl Beach_Umbrella_1
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.090000 0.090000 0.090000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd sombrilla.jpg
+
+newmtl Beach_Umbrella_1.006
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.090000 0.090000 0.090000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd sombrilla.jpg
+
+newmtl Beach_Umbrella_2
+Ns 19.999990
+Ka 1.000000 1.000000 1.000000
+Ks 0.720000 0.720000 0.720000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd marmol.jpg
+
+newmtl Beach_Umbrella_2.004
+Ns 19.999990
+Ka 1.000000 1.000000 1.000000
+Ks 0.720000 0.720000 0.720000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd marmol.jpg
+
+newmtl Beach_Umbrella_2.006
+Ns 19.999990
+Ka 1.000000 1.000000 1.000000
+Ks 0.720000 0.720000 0.720000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd marmol.jpg
+
+newmtl Books01
+Ns 0.010000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TexturasPuestoPeriodico/Books01.jpg
+
+newmtl CardBoard
+Ns 0.010000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TexturasPuestoPeriodico/Cardboard.jpg
+
+newmtl CashRegister
+Ns 0.010000
+Ka 1.000000 1.000000 1.000000
+Ks 0.011765 0.011765 0.011765
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd TexturasPuestoPeriodico/CashRegister.jpg
+
+newmtl Ch07_body.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd E:/Downloads/ProyectoFinalZoo/ProyectoFinalZoo/ProyectoFinalZoo/Models/Personas/p1/Ch07_1001_Diffuse.png
+map_Ks E:/Downloads/ProyectoFinalZoo/ProyectoFinalZoo/ProyectoFinalZoo/Models/Personas/p1/Ch07_1001_Specular.png
+
+newmtl Ch07_hair.001
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd E:/Downloads/ProyectoFinalZoo/ProyectoFinalZoo/ProyectoFinalZoo/Models/Personas/p1/Ch07_1002_Diffuse.png
+
+newmtl Ch08_body
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd E:/Downloads/ProyectoFinalZoo/ProyectoFinalZoo/ProyectoFinalZoo/Models/Personas/p3/Ch08_1001_Diffuse.png
+
+newmtl Ch08_body1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd E:/Downloads/ProyectoFinalZoo/ProyectoFinalZoo/ProyectoFinalZoo/Models/Personas/p3/Ch08_1002_Diffuse.png
+
+newmtl Ch08_hair
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd E:/Downloads/ProyectoFinalZoo/ProyectoFinalZoo/ProyectoFinalZoo/Models/Personas/p3/Ch08_1003_Diffuse.png
+
+newmtl Ch22_body.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd E:/Downloads/ProyectoFinalZoo/ProyectoFinalZoo/ProyectoFinalZoo/Models/Personas/p5/Ch22_1001_Diffuse.png
+
+newmtl Ch22_hair.001
+Ns 778.330078
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd E:/Downloads/ProyectoFinalZoo/ProyectoFinalZoo/ProyectoFinalZoo/Models/Personas/p5/Ch22_1002_Diffuse.png
+
+newmtl Ch28_body
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd E:/Downloads/ProyectoFinalZoo/ProyectoFinalZoo/ProyectoFinalZoo/Models/Personas/p4/Ch28_1001_Diffuse.png
+
+newmtl Ch28_hair
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd E:/Downloads/ProyectoFinalZoo/ProyectoFinalZoo/ProyectoFinalZoo/Models/Personas/p4/Ch28_1001_Diffuse.png
+
+newmtl Ch37_hair
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd E:/Downloads/ProyectoFinalZoo/ProyectoFinalZoo/ProyectoFinalZoo/Models/Personas/p2/Ch37_1002_Diffuse.png
+
+newmtl Ch38_body
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd E:/Downloads/ProyectoFinalZoo/ProyectoFinalZoo/ProyectoFinalZoo/Models/Personas/p2/Ch37_1001_Diffuse.png
+
+newmtl ChairLeather
+Ns 0.010000
+Ka 1.000000 1.000000 1.000000
+Ks 0.109804 0.109804 0.109804
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd TexturasPuestoPeriodico/ChairLeather.jpg
+
+newmtl ChairMetal
+Ns 0.010000
+Ka 1.000000 1.000000 1.000000
+Ks 0.192157 0.192157 0.192157
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd TexturasPuestoPeriodico/ChairMetal.jpg
+
+newmtl Comics01
+Ns 0.010000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TexturasPuestoPeriodico/Comics01.jpg
+
+newmtl DecoMetal01
+Ns 0.999999
+Ka 1.000000 1.000000 1.000000
+Ks 0.027451 0.027451 0.027451
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd TexturasPuestoPeriodico/MetalDeco1.jpg
+
+newmtl DecoMetal02
+Ns 0.999999
+Ka 1.000000 1.000000 1.000000
+Ks 0.023529 0.023529 0.023529
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd TexturasPuestoPeriodico/MetalDeco2.jpg
+
+newmtl DecoMetal03
+Ns 0.999999
+Ka 1.000000 1.000000 1.000000
+Ks 0.031373 0.031373 0.031373
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd TexturasPuestoPeriodico/MetalDeco3.jpg
+
+newmtl Floor2
+Ns 0.010000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TexturasPuestoPeriodico/MetalFloor01.jpg
+
+newmtl FrontMagazine1
+Ns 0.010000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TexturasPuestoPeriodico/4a.jpg
+
+newmtl FrontMagazine2
+Ns 0.010000
+Ka 1.000000 1.000000 1.000000
+Ks 0.070588 0.070588 0.070588
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd TexturasPuestoPeriodico/247_21_03_09_3_57_19_0.jpg
+
+newmtl FrontMagazine3
+Ns 0.010000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TexturasPuestoPeriodico/247_15_08_10_3_01_32_0.jpg
+
+newmtl FrontMagazine4
+Ns 0.010000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TexturasPuestoPeriodico/1a.jpg
+
+newmtl FrontNewsPaper1
+Ns 0.010000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TexturasPuestoPeriodico/TodayNews.jpg
+
+newmtl Gate1
+Ns 0.010000
+Ka 1.000000 1.000000 1.000000
+Ks 0.129412 0.129412 0.129412
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd TexturasPuestoPeriodico/RollerShutter.jpg
+
+newmtl InsideNewsStand1
+Ns 3.999998
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TexturasPuestoPeriodico/StandInside1.jpg
+
+newmtl InsideNewsStand2
+Ns 3.999998
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TexturasPuestoPeriodico/MetalBase2.jpg
+
+newmtl Labels01
+Ns 0.010000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TexturasPuestoPeriodico/Labels01.jpg
+
+newmtl Labels02
+Ns 0.010000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TexturasPuestoPeriodico/Labels02.jpg
+
+newmtl Labels03
+Ns 0.010000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TexturasPuestoPeriodico/Labels03.jpg
+
+newmtl Madera_019
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.350000 0.350000 0.350000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd E:/Downloads/ProyectoFinalZoo/ProyectoFinalZoo/ProyectoFinalZoo/Models/ProyectoFinalZoo/ProyectoFinalZoo/ProyectoFinalZoo/Models/D:/Proyectos-grafica/Proyecto-Final/Proyecto-Final/Textures/Madera.jpg
+
+newmtl Magazines01
+Ns 0.010000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TexturasPuestoPeriodico/Magazines01.jpg
+
+newmtl Magazines02
+Ns 0.010000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TexturasPuestoPeriodico/Magazines02.jpg
+
+newmtl Magazines03
+Ns 0.010000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TexturasPuestoPeriodico/Magazines03.jpg
+
+newmtl Magazines04
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Ks 0.043137 0.043137 0.043137
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd TexturasPuestoPeriodico/Magazines04.jpg
+
+newmtl Magazines05
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Ks 0.086274 0.086274 0.086274
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd TexturasPuestoPeriodico/Magazines05.jpg
+
+newmtl Magazines06
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TexturasPuestoPeriodico/Magazines06.jpg
+
+newmtl Magazines07
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TexturasPuestoPeriodico/Magazines07.jpg
+
+newmtl Magazines08
+Ns 0.010000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TexturasPuestoPeriodico/Magazines08.jpg
+
+newmtl Magazines09
+Ns 0.010000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TexturasPuestoPeriodico/Magazines09.jpg
+
+newmtl MainNewsStand
+Ns 0.999999
+Ka 1.000000 1.000000 1.000000
+Ks 0.027451 0.027451 0.027451
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd TexturasPuestoPeriodico/MetalBase.jpg
+
+newmtl Material.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd sombrilla.jpg
+
+newmtl Material_057
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd E:/Downloads/ProyectoFinalZoo/ProyectoFinalZoo/ProyectoFinalZoo/Models/ProyectoFinalZoo/ProyectoFinalZoo/ProyectoFinalZoo/Models/D:/Proyectos-grafica/Proyecto-Final/Proyecto-Final/Textures/Metal.jpg
+
+newmtl Material_058
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd E:/Downloads/ProyectoFinalZoo/ProyectoFinalZoo/ProyectoFinalZoo/Models/ProyectoFinalZoo/ProyectoFinalZoo/ProyectoFinalZoo/Models/D:/Proyectos-grafica/Proyecto-Final/Proyecto-Final/Textures/Metal.jpg
+
+newmtl Material_059
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd E:/Downloads/ProyectoFinalZoo/ProyectoFinalZoo/ProyectoFinalZoo/Models/ProyectoFinalZoo/ProyectoFinalZoo/ProyectoFinalZoo/Models/D:/Proyectos-grafica/Proyecto-Final/Proyecto-Final/Textures/MetalVerde.jpg
+
+newmtl MetalPanels1
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Ks 0.043137 0.043137 0.043137
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd TexturasPuestoPeriodico/MetalPanel03.jpg
+
+newmtl MetalPanels2
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TexturasPuestoPeriodico/MetalPanel02.jpg
+
+newmtl Newspapers01
+Ns 0.010000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TexturasPuestoPeriodico/Newspapers01.jpg
+
+newmtl Newspapers02
+Ns 0.010000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TexturasPuestoPeriodico/Newspapers02.jpg
+
+newmtl Newspapers03
+Ns 0.010000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TexturasPuestoPeriodico/Newspapers03.jpg
+
+newmtl RoofNewsStand
+Ns 3.999998
+Ka 1.000000 1.000000 1.000000
+Ks 0.239216 0.239216 0.239216
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd TexturasPuestoPeriodico/BronzeRoof02.jpg
+
+newmtl Tent
+Ns 0.010000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TexturasPuestoPeriodico/Tent2.jpg
+
+newmtl canguro_wire_135059008_002
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.336400 0.336400 0.336400
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd E:/Downloads/ProyectoFinalZoo/ProyectoFinalZoo/ProyectoFinalZoo/Models/ProyectoFinalZoo/ProyectoFinalZoo/ProyectoFinalZoo/Models/D:/Proyectos-grafica/Proyecto-Final/Proyecto-Final/Textures/Tierra.jpg
+
+newmtl city_stall_city_stall_M_INST_003
+Ns 80.032394
+Ka 1.000000 1.000000 1.000000
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd E:/Downloads/ProyectoFinalZoo/ProyectoFinalZoo/ProyectoFinalZoo/Models/ProyectoFinalZoo/ProyectoFinalZoo/ProyectoFinalZoo/Models/D:/Proyectos-grafica/Proyecto-Final/Proyecto-Final/Textures/Metal.jpg
+
+newmtl default
+Ns 47.000004
+Ka 1.000000 1.000000 1.000000
+Ks 0.558000 0.558000 0.558000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd E:/Downloads/ProyectoFinalZoo/ProyectoFinalZoo/ProyectoFinalZoo/Models/bicycle_L3.123c72dde4e2-4bc7-4bb2-84b3-77a00667d146/10489_bicycle_diffuse.jpg
+
+newmtl default.001
+Ns 47.000004
+Ka 1.000000 1.000000 1.000000
+Ks 0.558000 0.558000 0.558000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd E:/Downloads/ProyectoFinalZoo/ProyectoFinalZoo/ProyectoFinalZoo/Models/bicycle_L3.123c72dde4e2-4bc7-4bb2-84b3-77a00667d146/10489_bicycle_diffuse.jpg
+
+newmtl default.002
+Ns 47.000004
+Ka 1.000000 1.000000 1.000000
+Ks 0.558000 0.558000 0.558000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd E:/Downloads/ProyectoFinalZoo/ProyectoFinalZoo/ProyectoFinalZoo/Models/bicycle_L3.123c72dde4e2-4bc7-4bb2-84b3-77a00667d146/10489_bicycle_diffuse.jpg
+
+newmtl default.003
+Ns 47.000004
+Ka 1.000000 1.000000 1.000000
+Ks 0.558000 0.558000 0.558000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd E:/Downloads/ProyectoFinalZoo/ProyectoFinalZoo/ProyectoFinalZoo/Models/bicycle_L3.123c72dde4e2-4bc7-4bb2-84b3-77a00667d146/10489_bicycle_diffuse.jpg
+
+newmtl default.004
+Ns 47.000004
+Ka 1.000000 1.000000 1.000000
+Ks 0.558000 0.558000 0.558000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd E:/Downloads/ProyectoFinalZoo/ProyectoFinalZoo/ProyectoFinalZoo/Models/bicycle_L3.123c72dde4e2-4bc7-4bb2-84b3-77a00667d146/10489_bicycle_diffuse.jpg
+
+newmtl marmol
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd marmol.jpg
+
+newmtl marmolOsc
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd MarmolOscuro.png
+
+newmtl wire_006134006
+Ns 32.000008
+Ka 1.000000 1.000000 1.000000
+Kd 0.023500 0.525500 0.023500
+Ks 0.350000 0.350000 0.350000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl wire_028089177
+Ns 32.000008
+Ka 1.000000 1.000000 1.000000
+Kd 0.109800 0.349000 0.694100
+Ks 0.350000 0.350000 0.350000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl wire_115115115.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl wire_115115115.005
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl wire_115115115.006
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl wire_115115115.007
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl wire_115115115.008
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl wire_115115115.009
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl wire_115115115.010
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl wire_115115115.011
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl wire_134110008
+Ns 32.000008
+Ka 1.000000 1.000000 1.000000
+Kd 0.525500 0.431400 0.031400
+Ks 0.350000 0.350000 0.350000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl wire_177028149
+Ns 32.000008
+Ka 1.000000 1.000000 1.000000
+Kd 0.694100 0.109800 0.584300
+Ks 0.350000 0.350000 0.350000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl wire_184228153_003
+Ns 102.399994
+Ka 1.000000 1.000000 1.000000
+Ks 0.350000 0.350000 0.350000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd E:/Downloads/ProyectoFinalZoo/ProyectoFinalZoo/ProyectoFinalZoo/Models/ProyectoFinalZoo/ProyectoFinalZoo/ProyectoFinalZoo/Models/D:/Proyectos-grafica/Proyecto-Final/Proyecto-Final/Textures/marmol.jpg
+
+newmtl wire_224086086
+Ns 32.000008
+Ka 1.000000 1.000000 1.000000
+Kd 0.878400 0.337300 0.337300
+Ks 0.350000 0.350000 0.350000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl wire_224198087
+Ns 32.000008
+Ka 1.000000 1.000000 1.000000
+Kd 0.878400 0.776500 0.341200
+Ks 0.350000 0.350000 0.350000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl wire_225143087.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl wire_225143087.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd plastico.png
+
+newmtl wire_225143087.006
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl wire_225143087.007
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl wire_225143087.008
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl wire_225143087.009
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl wire_225143087.010
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl wire_225143087.011
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl wire_229166215.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl wire_229166215.006
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl wire_229166215.007
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl wire_229166215.008
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl wire_229166215.009
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl wire_229166215.010
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl wire_229166215.011
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
